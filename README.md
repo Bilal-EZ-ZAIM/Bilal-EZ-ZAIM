@@ -116,8 +116,7 @@ Développeur Full Stack passionné avec 2+ années d'expérience dans la constru
 ## Contact
 
 - **Email:** bilalzaim499@gmail.com
-- **LinkedIn:** [Lien vers votre profil LinkedIn]
-- **GitHub:** [Lien vers votre profil GitHub]
+- **LinkedIn:** https://www.linkedin.com/in/bilal-ezzaim-a34313240/
 
 ## Licence
 
