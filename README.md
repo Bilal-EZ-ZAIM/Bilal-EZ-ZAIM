@@ -1,76 +1,23 @@
-# **🔥 Bilal Ezzaim**
+# **<span style="color: #FF5733;">🔥 Bilal Ezzaim</span>**
 
-<h1 align="center">Hi 👋, I'm Bilal Ezzaim</h1>
+<h1 align="center">Hi 👋, I'm Bilal Ez-zaim</h1>
 <h3 align="center">A passionate Full Stack Developer from Morocco</h3>
 
-- 🔭 I’m currently working on [social media](https://github.com/Bilal-EZ-ZAIM/Aura).
-- 🌱 I’m currently learning **TypeScript**.
-- 👨‍💻 All of my projects are available at [GitHub](https://github.com/Bilal-EZ-ZAIM).
-- 💬 Ask me about **Express.js, MongoDB, React, and Node.js**.
-- 📫 How to reach me: **bilalzaim499@gmail.com**.
+- 🔭 I’m currently working on [social media.](https://github.com/Bilal-EZ-ZAIM/Aura)
+- 🌱 I’m currently learning **TypeScript**
+- 👨‍💻 All of my projects are available at [https://github.com/Bilal-EZ-ZAIM](https://github.com/Bilal-EZ-ZAIM)
+- 💬 Ask me about **Express.js, MongoDB, React, and Node.js**
+- 📫 How to reach me: **bilalzaim499@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/bilal-ezzaim-a34313240/" target="_blank" rel="noreferrer">LinkedIn</a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-  </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-  </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  </a>
-  <a href="https://www.php.net" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>
-  <a href="https://redux.js.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-  </a>
-</p>
-
-## **🚀 About Me**
+## **<span style="color: #FFC300;">🚀 About Me</span>**
 
 Passionate about building efficient and user-friendly web applications, I am a dedicated Full Stack Developer with a strong foundation in both front-end and back-end technologies. My journey in web development has been fueled by a continuous drive to learn and implement the best practices in the industry. I thrive on solving complex problems and delivering high-quality, scalable solutions.
 
-## 💻 **Tech Stack**
+---
+
+# **<span style="color: #FF5733;">💻 Tech Stack</span>**
 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -89,29 +36,54 @@ Passionate about building efficient and user-friendly web applications, I am a d
 ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-## 📊 **GitHub Stats**
+---
+
+# **<span style="color: #FF5733;">📊 GitHub Stats</span>**
 
 ![](https://github-readme-stats.vercel.app/api?username=Bilal-EZ-ZAIM&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Bilal-EZ-ZAIM&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Bilal-EZ-ZAIM&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## **💼 Projets**
+---
 
-### **Aura** 
-- **Description**: A comprehensive social media application.
-- **Technologies**: React, Node.js, MongoDB.
-- **Repository**: [GitHub Link](https://github.com/Bilal-EZ-ZAIM/Aura)
+# **<span style="color: #FF5733;">💼 Projets</span>**
 
-### **My E-Commerce Website**
-- **Description**: An e-commerce platform developed with the MERN stack.
-- **Technologies**: MongoDB, Express.js, React, Node.js.
-- **Repository**: [GitHub Link](https://github.com/Bilal-EZ-ZAIM/e-commerce-website)
+### **<span style="color: #FF5733;">SkilLink</span>**
+Plateforme facilitant l'achat et la vente de services en ligne entre freelances et entreprises.
+- **Langages et technologies utilisés:** SQL, PHP/LARAVEL, WebSocket, HTML5/CSS3/Bootstrap/JavaScript, React js
 
-### **Gestion de Syndique**
-- **Description**: A web application for managing residential complexes.
-- **Technologies**: Laravel, PHP, MySQL, Flutter.
-- **Repository**: [GitHub Link](https://github.com/Bilal-EZ-ZAIM/gestion-de-syndique)
+### **<span style="color: #FF5733;">Wiki™</span>**
+Plateforme conviviale permettant aux utilisateurs de gérer et de partager facilement des wikis.
+- **Langages et technologies utilisés:** SQL, PHP native, HTML5/CSS3/Bootstrap/JavaScript/AJAX, UML/MERISE
 
 ---
 
-Feel free to adjust the descriptions and add any other relevant projects or details!
+# **<span style="color: #FF5733;">📜 Certifications</span>**
+- Diplôme en développement web Full Stack
+  - YouCode | UM6P, 2023, Youssoufia, Maroc
+
+---
+
+# **<span style="color: #FF5733;">🌐 Compétences linguistiques</span>**
+- **Arabe:** Langue maternelle
+- **Français:** B1
+- **Anglais:** A1
+
+---
+
+# **<span style="color: #FF5733;">📞 Contactez-moi</span>**
+
+- **Email:** bilalzaim499@gmail.com
+- **LinkedIn:** [Bilal Ezzaim](https://www.linkedin.com/in/bilal-ezzaim-a34313240/)
+
+---
+
+## Licence
+
+Ce README.md est sous licence MIT.
+
+[![](https://visitcount.itsvg.in/api?id=Bilal-EZ-ZAIM&icon=0&color=0)](https://visitcount.itsvg.in)
+
+---
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
