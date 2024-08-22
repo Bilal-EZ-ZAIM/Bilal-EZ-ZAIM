@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <!-- Add social media links here if needed -->
+  <a href="https://www.linkedin.com/in/bilal-ezzaim-a34313240/" target="_blank" rel="noreferrer">LinkedIn</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
